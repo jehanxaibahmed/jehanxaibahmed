@@ -46,6 +46,9 @@ I'm a Full Stack Engineer & Blockchain Implementor passionate about crafting hig
   <img alt="Prettier" src="https://img.shields.io/badge/-Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=white" />
   <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
+  <img alt="Vue" src="https://img.shields.io/badge/-Vue-45b8d8?style=flat-square&logo=vue&logoColor=white" />
+  <img alt="ASP.Net" src="https://img.shields.io/badge/-ASP.Net-E10098?style=flat-square&logo=graphql&logoColor=white" />
+
 </p>
 
 ## Connect with me
