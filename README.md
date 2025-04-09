@@ -1,7 +1,7 @@
 ![Jahanzaib Ahmad](https://raw.githubusercontent.com/jehanxaibahmed/jehanxaibahmed/main/github-header-image.png)
 
 
-## Fancy seeing you here! <img src="https://raw.githubusercontent.com/jehanxaibahmed/jehanxaibahmed/main/wave.gif" width="30">
+## 404? Not here. You found me! <img src="https://raw.githubusercontent.com/jehanxaibahmed/jehanxaibahmed/main/wave.gif" width="30">
 
 I'm a Full Stack Engineer & Blockchain Implementor passionate about crafting high-quality, scalable, and user-focused Web and Mobile applications. With professional experience across startups and enterprise projects, I specialize in building end-to-end solutions using React, Vue, React Native, Expo, and Flutter — seamlessly transforming Figma designs into production-ready, performant applications.
 
