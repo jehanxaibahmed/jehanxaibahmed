@@ -75,6 +75,8 @@ I'm a Full Stack Engineer & Blockchain Implementor passionate about crafting hig
 ![](https://github-readme-stats.vercel.app/api?username=jehanxaibahmed&theme=transparent&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=jehanxaibahmed&theme=transparent&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jehanxaibahmed&layout=donut)](https://github.com/jehanxaibahmed/github-readme-stats)
 <br>
 
 ## Today's Qoute
