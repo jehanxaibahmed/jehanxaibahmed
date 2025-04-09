@@ -3,12 +3,19 @@
 
 ## Fancy seeing you here! <img src="https://raw.githubusercontent.com/jehanxaibahmed/jehanxaibahmed/main/wave.gif" width="30">
 
-I'm a **passionate Full Stack Developer & Blockchain Implementor** who loves designing and building high-quality, user-friendly, and performant Web, Mobile applications using **React, Vue, React Native, Expo and Flutter**. I specialize in converting Figma designs into fully functional apps and optimizing performance for seamless user experiences.
+I'm a Full Stack Engineer & Blockchain Implementor passionate about crafting high-quality, scalable, and user-focused Web and Mobile applications. With professional experience across startups and enterprise projects, I specialize in building end-to-end solutions using React, Vue, React Native, Expo, and Flutter — seamlessly transforming Figma designs into production-ready, performant applications.
 
-- 🏢 I'm currently working as a full stack developer at NationWilcox Systems
-- 🚀 I use daily: **Typescript**, **Git**, **React Native**, **Figma**, **VS Code**
-- 💻 I work using: **React Native**, **Expo**, **Redux/Context**, **React Query**, **Yup/Zod/React Hook Form**, **Nativewind**, **Styled-Components**, **Native Modules**
-- ⚡️ Fun fact: I'm a huge fan of **Kratos (God of War)** and I love to play **Video Games** and **Eat**.
+🏢 Currently working at Nation Wilcox Systems as a Senior Web Developer, leading development on warehouse and order management platforms.
+
+🧠 Previously contributed to blockchain-powered platforms like InvoiceMate and DocsMate at MateSol, designing Hyperledger Fabric networks, writing smart contracts, and deploying with Kubernetes.
+
+🔧 Daily tech stack includes TypeScript, React, Asp .Net, Redux, React Query, Vue, Vuetify, GraphQL, and Docker.
+
+💡 Strong background in both front-end & back-end frameworks including Laravel, Node.js, Postgres, and ASP.NET.
+
+🌍 Always exploring cutting-edge tech in Blockchain, DevOps, and Decentralized Applications (DApps).
+
+⚡ Fun fact: I’m a big fan of new tech and love to discuss !
 
 <br>
 
