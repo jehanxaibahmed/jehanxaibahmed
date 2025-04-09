@@ -3,7 +3,7 @@
 
 ## Fancy seeing you here! <img src="https://raw.githubusercontent.com/jehanxaibahmed/jehanxaibahmed/main/wave.gif" width="30">
 
-I'm a **passionate Mobile App Developer & UI UX Designer** who loves designing and building high-quality, user-friendly, and performant mobile applications using **React Native, Expo and Flutter**. I specialize in converting Figma designs into fully functional apps and optimizing performance for seamless user experiences.
+I'm a **passionate Full Stack Developer & Blockchain Implementor** who loves designing and building high-quality, user-friendly, and performant Web, Mobile applications using **React, Vue, React Native, Expo and Flutter**. I specialize in converting Figma designs into fully functional apps and optimizing performance for seamless user experiences.
 
 - 🏢 I'm currently working as a full stack developer at NationWilcox Systems
 - 🚀 I use daily: **Typescript**, **Git**, **React Native**, **Figma**, **VS Code**
@@ -15,12 +15,12 @@ I'm a **passionate Mobile App Developer & UI UX Designer** who loves designing a
 ## Connect with me
 
 <p align="left">
-<a href="https://linkedin.com/in/haseeba393" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="haseeba393" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/7572705" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="7572705" height="30" width="40" /></a>
-<a href="https://fb.com/mirza.haseeb.507" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mirza.haseeb.507" height="30" width="40" /></a>
-<a href="https://instagram.com/quotiyz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="quotiyz" height="30" width="40" /></a>
-<a href="https://dribbble.com/haseeba393" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="haseeba393" height="30" width="40" /></a>
-<a href="https://medium.com/@haseeba393" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@haseeba393" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/jehanzaibahmed/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jahmad" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/10608592" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="7572705" height="30" width="40" /></a>
+<a href="https://www.facebook.com/JehanzaibMughal/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="jahmad" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/jehanzaibahmed/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="quotiyz" height="30" width="40" /></a>
+<a href="https://dribbble.com/zaib_ahmad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="jahmad" height="30" width="40" /></a>
+<a href="https://medium.com/@jehanxaibahmed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@jahmad" height="30" width="40" /></a>
 </p>
 
 <br>
@@ -33,8 +33,8 @@ I'm a **passionate Mobile App Developer & UI UX Designer** who loves designing a
 
 ## GitHub Stats & Contributions
 
-![](https://github-readme-stats.vercel.app/api?username=haseeba393&theme=transparent&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=haseeba393&theme=transparent&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=jehanxaibahmed&theme=transparent&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=jehanxaibahmed&theme=transparent&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 <br>
 
@@ -43,7 +43,7 @@ I'm a **passionate Mobile App Developer & UI UX Designer** who loves designing a
 
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/haseeba393/haseeba393/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/haseeba393/haseeba393/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/haseeba393/haseeba393/output/github-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jehanxaibahmed/jehanxaibahmed/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jehanxaibahmed/jehanxaibahmed/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/jehanxaibahmed/jehanxaibahmed/output/github-snake.svg" />
 </picture>
