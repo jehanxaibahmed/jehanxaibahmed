@@ -1,4 +1,4 @@
-![Haseeb Ahmed](https://raw.githubusercontent.com/jehanxaibahmed/jehanxaibahmed/main/github-header-image.png)
+![Jahanzaib Ahmad](https://raw.githubusercontent.com/jehanxaibahmed/jehanxaibahmed/main/github-header-image.png)
 
 
 ## Fancy seeing you here! <img src="https://raw.githubusercontent.com/jehanxaibahmed/jehanxaibahmed/main/wave.gif" width="30">
